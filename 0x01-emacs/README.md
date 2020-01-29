@@ -1,1 +1,1 @@
-Knowing the emac´s commands
+Knowing the emac´s commands.
