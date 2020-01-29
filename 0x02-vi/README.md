@@ -1,1 +1,1 @@
-Knowing Vim´s commands
+Knowing Vim´s commands.
